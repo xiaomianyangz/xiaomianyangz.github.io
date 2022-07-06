@@ -1,3 +1,7 @@
+---
+layout: article
+title: "Markdown学习"
+---
 # Markdown学习
 
 ## 标题
